@@ -12,7 +12,7 @@ I thrive at the intersection of **innovation and practicality**, ensuring every 
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 **Operating Systems**  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
@@ -44,7 +44,7 @@ I thrive at the intersection of **innovation and practicality**, ensuring every 
 
 ![AI Orchestration Platforms](https://img.shields.io/badge/AI%20Orchestration%20Platforms-FF6F61?style=flat) ![Microsoft Semantic Kernel](https://img.shields.io/badge/Microsoft%20Semantic%20Kernel-0078D4?style=flat)  ![Intelligent Workflow Automation](https://img.shields.io/badge/Intelligent%20Workflow%20Automation-5CDB95?style=flat)  
  
-
+---
 
 ## 📊 GitHub Stats
 ![Ather's GitHub stats](https://github-readme-stats.vercel.app/api?username=atherrehan&show_icons=true&theme=radical)
