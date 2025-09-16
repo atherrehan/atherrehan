@@ -16,3 +16,4 @@ I thrive at the intersection of **innovation and practicality**, ensuring every 
 
 ## 📊 GitHub Stats
 ![Ather's GitHub stats](https://github-readme-stats.vercel.app/api?username=atherrehan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atherrehan&layout=compact&theme=radical)  
