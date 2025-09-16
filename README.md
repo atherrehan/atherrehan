@@ -10,6 +10,11 @@ I thrive at the intersection of **innovation and practicality**, ensuring every 
 
 ## 🧰 Tech Stack
 
+**Operating Systems**  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+
+
 **Languages & Frameworks**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=flat&logo=visual-basic&logoColor=white)  ![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=flat&logo=blazor&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)   
 
