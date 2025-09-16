@@ -14,4 +14,4 @@
 - **Tools:** Docker, Git, RabbitMQ  
 
 ## 📊 GitHub Stats
-![Ather's GitHub stats](https://github-readme-stats.vercel.app/api?username=ather-rehan&show_icons=true&theme=radical)
+![Ather's GitHub stats](https://github-readme-stats.vercel.app/api?username=atherrehan&show_icons=true&theme=radical)
