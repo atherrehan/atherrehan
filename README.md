@@ -42,10 +42,10 @@ I thrive at the intersection of **innovation and practicality**, ensuring every 
 
 ---
 
-**AI & Orchestration**  
-- 🤖 AI Orchestration Platforms  
-- 🧠 Microsoft Semantic Kernel  
-- 🔗 Intelligent Workflow Automation  
+## 🤖 AI & Orchestration
+
+![AI Orchestration Platforms](https://img.shields.io/badge/AI%20Orchestration%20Platforms-FF6F61?style=flat) ![Microsoft Semantic Kernel](https://img.shields.io/badge/Microsoft%20Semantic%20Kernel-0078D4?style=flat)  ![Intelligent Workflow Automation](https://img.shields.io/badge/Intelligent%20Workflow%20Automation-5CDB95?style=flat)  
+ 
 
 
 ## 📊 GitHub Stats
