@@ -36,9 +36,9 @@ I thrive at the intersection of **innovation and practicality**, ensuring every 
 
 ## 🏛 Architecture & Principles
 
-![Microservices](https://img.shields.io/badge/Microservices-5CDB95?style=flat&logo=appveyor&logoColor=white) ![Monolith](https://img.shields.io/badge/Monolith-05386B?style=flat&logo=appveyor&logoColor=white)  ![Modular Monolith](https://img.shields.io/badge/Modular%20Monolith-379683?style=flat&logo=appveyor&logoColor=white)  ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-8EE4AF?style=flat&logo=appveyor&logoColor=white)  
-![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-5CDB95?style=flat&logo=appveyor&logoColor=white)  ![Event-Driven](https://img.shields.io/badge/Event-Driven-05386B?style=flat&logo=appveyor&logoColor=white)  ![DDD](https://img.shields.io/badge/Domain-Driven%20Design-379683?style=flat&logo=appveyor&logoColor=white)  
-![Multi-Tenancy](https://img.shields.io/badge/Multi-Tenancy-SaaS-8EE4AF?style=flat&logo=appveyor&logoColor=white)  
+![Microservices](https://img.shields.io/badge/Microservices-5CDB95?style=flat&logo=appveyor&logoColor=white) ![Monolith](https://img.shields.io/badge/Monolith-05386B?style=flat&logo=appveyor&logoColor=white)  ![Modular Monolith](https://img.shields.io/badge/Modular%20Monolith-379683?style=flat&logo=appveyor&logoColor=white)   ![Multi-Tenancy](https://img.shields.io/badge/Multi-Tenancy-SaaS-8EE4AF?style=flat&logo=appveyor&logoColor=white) ![Event-Driven](https://img.shields.io/badge/Event-Driven-05386B?style=flat&logo=appveyor&logoColor=white)  ![DDD](https://img.shields.io/badge/Domain-Driven%20Design-379683?style=flat&logo=appveyor&logoColor=white)  
+![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-5CDB95?style=flat&logo=appveyor&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-8EE4AF?style=flat&logo=appveyor&logoColor=white)   
+ 
 
 ---
 
