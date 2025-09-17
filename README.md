@@ -4,7 +4,7 @@
 
 ---
 
-A **highly skilled Senior Software Engineer** with over **11 years of experience** designing, developing, and implementing cutting-edge software solutions across diverse domains, including **FinTech, e-commerce, healthcare, and government sectors**.  
+I'm a **highly skilled Senior Software Engineer** with over **11 years of experience** designing, developing, and implementing cutting-edge software solutions across diverse domains, including **FinTech, e-commerce, healthcare, and government sectors**.  
 
 My passion lies in leveraging **AI orchestration platforms** to build **intelligent, cloud-ready applications** that empower businesses with next-generation capabilities. With deep expertise in **modern .NET technologies**, I specialize in delivering **scalable, secure, and high-performance applications** that align with both **business objectives** and **industry best practices**.  
 
